@@ -1,0 +1,377 @@
+header{
+    background-color: rgb(0, 0, 0);
+    height: 110px;
+    }
+    li{list-style: none;} 
+    h1{
+        color: white;
+        font-size: 73px;
+        margin-left: 510px;
+        float: left;
+        font-family: titulo;
+        margin-top: 6px;
+    }
+    #bot1{
+        margin-top: 19px;
+        text-align: center;
+        width: 100%   
+    }
+#opciones{
+    background-color: rgb(250, 250, 250);
+     display: flex;
+    justify-content: space-around;
+    height: 27px;
+    border: solid rgb(6, 6, 6) 3px;
+    width: 100%;
+   }
+   a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-family:menu1 ;
+    font-size: 22px
+}
+@font-face {
+    src: url( fonts/Once.otf);
+    font-family: menu1;
+}
+@font-face {
+    src: url(fonts/Simple\ Signature.otf);
+    font-family: titulo;
+}
+@font-face {
+    src: url(fonts/Signature.otf);
+    font-family: expo;
+}
+body{
+    background-image: url(img/09-Van-Gogh-Noche-estrellada-sobre-el-Ródano-1888.jpg);
+}
+#div19{
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+    display: flex;
+    margin-top: 20px; 
+    margin-left: 5px; 
+    
+}
+#form1{
+    justify-content: center;
+    display: flex;
+    background-color: rgb(235, 235, 243);
+    margin-top: 50px;
+    
+   }
+   #div2{
+    justify-content: flex-start;
+    display: flex;
+    margin-top: 20px; 
+    margin-left: 420px;  
+}
+#div22{
+    justify-content: flex-start;
+    display: flex;
+    margin-top: 20px; 
+    margin-left: 420px;  
+}
+#div3{
+    justify-content: flex-start;
+    display: flex;
+    margin-top: 20px; 
+    margin-left: 420px;  
+}
+#div222{
+    justify-content: flex-start;
+    display: flex;
+    margin-top: 20px; 
+    margin-left: 420px;
+}
+#div2222{
+    justify-content: flex-start;
+    display: flex;
+    margin-top: 20px; 
+    margin-left: 420px;
+}
+
+#div4{
+    justify-content: flex-start;
+    display: flex;
+    margin-top: 20px;  
+    margin-left: 420px; 
+}
+
+#div5{
+    justify-content: flex-start;
+    display: flex;
+    margin-top: 20px; 
+    margin-left: 420px;  
+}
+
+#div16{
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    display: flex;
+    margin-top: 20px; 
+    margin-left: 10px; 
+    flex-direction: column;
+    text-align: center;
+    
+}
+#div3{
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    display: flex;
+    margin-top: 20px; 
+    margin-left: 10px; 
+    flex-direction: column;
+    text-align: center;
+    
+}
+#div2{
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    display: flex;
+    margin-top: 20px; 
+    margin-left: 10px; 
+    flex-direction: column;
+    text-align: center;
+    
+}
+#div222{
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    display: flex;
+    margin-top: 20px; 
+    margin-left: 10px; 
+    flex-direction: column;
+    text-align: center;
+    
+}
+#div2222{
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    display: flex;
+    margin-top: 20px; 
+    margin-left: 10px; 
+    flex-direction: column;
+    text-align: center;
+    
+}
+#div4{
+
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        display: flex;
+        margin-top: 20px; 
+        margin-left: 10px; 
+        flex-direction: column;
+        text-align: center;
+        
+    
+}
+#Documento{
+    justify-content: flex-start;
+    display: flex;
+    margin-top: 20px;
+    margin-left: 80px;   
+}
+#Exposicion{
+    justify-content: flex-start;
+    display: flex;
+    margin-top: 20px;
+    margin-left: 80px;   
+}
+#Exposicion{
+    justify-content: flex-start;
+    display: flex;
+    margin-top: 20px;
+    margin-left: 0px;   
+}
+#opc1{
+    justify-content: flex-start;
+    display: flex;
+    margin-top: 20px; 
+    margin-left: 50px; 
+    margin-left: 80px;   
+}
+@media screen and (min-width:280px) and (max-width:890px)   {
+
+    header{
+        background-color: rgb(224, 130, 130);
+        height: 100px;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        width: 100%;
+        }
+        li{list-style: none;} 
+        #opciones{
+            background-color: rgb(250, 250, 250);
+            display: flex;
+            justify-content: space-around;
+            height: 27px;
+            border: solid rgb(6, 6, 6) 3px;
+            width: 100%;
+           }
+           #h1{
+            color: rgb(0, 0, 0);
+            font-size: 43px;
+           margin-left: auto;
+           margin-right: auto;
+            float: left;
+            font-family: titulo;
+            margin-top: 6px;
+        }
+        a{
+            text-decoration: none;
+            color: rgb(0, 0, 0);
+            font-family:menu1 ;
+            font-size: 14px
+        }
+        @font-face {
+            src: url(fonts/Once.otf);
+            font-family: menu1;
+        }
+        @font-face { 
+            src: url(fonts/Signature.otf);
+            font-family: titulo;
+        }
+        @font-face {
+            src: url(fonts/Signature.otf);
+            font-family: expo;
+        }
+       
+        #div19{
+            justify-content: flex-start;
+            align-items: flex-start;
+            flex-direction: column;
+            display: flex;
+            margin-top: 20px; 
+            margin-left: 5px; 
+            
+        }
+        #body{
+            background-image: url(img/09-Van-Gogh-Noche-estrellada-sobre-el-Ródano-1888.jpg);
+        }
+        #form1{
+            justify-content: center;
+            display: flex;
+            margin-top: 50px;
+        background-color: yellow;
+        width: 30%;
+        height: 100px;
+        margin-left: 5px;
+       
+           }
+           #div2{
+            justify-content: flex-start;
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            margin-top: 20px; 
+            margin-left: 10px;  
+        }
+        #div222{
+            justify-content: flex-start;
+            display: flex;
+            margin-top: 20px; 
+            margin-left: 10px; 
+            flex-direction: column;
+            text-align: center;
+        }
+        #div2222{
+            justify-content: flex-start;
+            display: flex;
+            margin-top: 20px; 
+            margin-left: 10px;
+            flex-direction: column;
+            text-align: center;  
+        }
+        #div33{
+            margin-left :10px;
+        }
+        #div333{
+            margin-left: 10px;
+        }
+        #div22{
+            justify-content: flex-start;
+            display: flex;
+            margin-left: 10px; 
+        }
+        #div3{
+            justify-content: flex-start;
+            display: flex;
+            margin-top: 20px; 
+            margin-left: 10px;  
+            flex-direction: column;
+            text-align: center;
+        }
+        
+        
+        #div4{
+            justify-content: flex-start;
+            display: flex;
+            margin-top: 20px;  
+            margin-left: 10px;
+            flex-direction: column;
+            text-align: center; 
+        }
+        #div44{
+            margin-left: 10px;
+        }
+        
+        #div5{
+            justify-content: flex-start;
+            display: flex;
+            margin-top: 20px; 
+            margin-left: 370px;  
+        }
+        #div55{
+            margin-left: 10px;
+        }
+        #div16{
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+            display: flex;
+            margin-top: 20px; 
+            margin-left: 10px; 
+            flex-direction: column;
+            text-align: center;
+            
+        }
+        #Documento{
+           
+           
+            text-align: center;
+            margin-top: 20px;
+            margin-left: 10px;   
+        }
+        #Exposicion{
+           
+           
+            margin-top: 20px;
+            margin-left: 10px;   
+        }
+       
+        #opc1{
+            
+           
+            margin-top: 20px; 
+            margin-left: 50px; 
+            margin-left: 10px;   
+        }
+        #bot1{
+            margin-top: 19px;
+            text-align: center;
+            width: 100%;
+        }
+
+
+         }
+        
