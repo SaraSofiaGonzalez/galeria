@@ -31,19 +31,22 @@ header{
     font-size: 22px
 }
 @font-face {
+    font-family: ;
     src: url( /fonts/Once.otf);
     font-family: menu1;
 }
 @font-face {
+    font-family: ;
     src: url(/fonts/Simple\ Signature.otf);
     font-family: titulo;
 }
 @font-face {
-    src: url(/fonts/Signature.otf);
+    font-family: ;
+    src: url( /fonts/Signature.otf);
     font-family: expo;
 }
 body{
-    background-image: url(/img/09-Van-Gogh-Noche-estrellada-sobre-el-Ródano-1888.jpg);
+    background-image: url(img/09-Van-Gogh-Noche-estrellada-sobre-el-Ródano-1888.jpg);
 }
 #div19{
     justify-content: flex-start;
@@ -234,15 +237,18 @@ body{
             font-size: 14px
         }
         @font-face {
-            src: url(/fonts/Once.otf);
+            font-family: ;
+            src: url( /fonts/Once.otf);
             font-family: menu1;
         }
-        @font-face { 
-            src: url(/fonts/Signature.otf);
+        @font-face {
+            font-family: ;
+            src: url( /fonts/Signature.otf);
             font-family: titulo;
         }
         @font-face {
-            src: url(/fonts/Signature.otf);
+            font-family: ;
+            src: url( /fonts/Signature.otf);
             font-family: expo;
         }
        
@@ -374,4 +380,3 @@ body{
 
 
          }
-        
