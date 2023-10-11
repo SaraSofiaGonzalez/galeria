@@ -43,7 +43,7 @@ header{
     font-family: expo;
 }
 body{
-    background-image: url(/img/09-Van-Gogh-Noche-estrellada-sobre-el-Ródano-1888.jpg);
+    background-color: orange;
 }
 #div19{
     justify-content: flex-start;
