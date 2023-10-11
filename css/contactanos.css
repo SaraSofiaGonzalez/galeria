@@ -45,7 +45,7 @@ li{
     font-family: titulo;
 }
 body{
-    background-image: url(/img/galeria\ room.jpg );
+    background-image: url(img/galeria\ room.jpg );
     width: 100%;
     height: 450px;
 }
